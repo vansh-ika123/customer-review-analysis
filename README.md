@@ -28,7 +28,7 @@ Amazon Sales Dataset (Kaggle). After cleaning: **1,307 products** and **11,873 i
 - **19% of products need attention:** 252 products are at-risk, 509 are mixed, and 533 are customer favorites.
 - **Recommendation:** focus first on seller and product quality control, with fulfillment as a secondary priority.
 
-![Sentiment and intent distribution](assets/s   entiment_and_intent_distribution.png)
+![Sentiment and intent distribution](assets/sentiment_and_intent_distribution.png)
 
 ![Sentiment by review intent](assets/sentiment_by_intent.png)
 
